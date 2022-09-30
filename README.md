@@ -20,3 +20,4 @@ This module covers **Low-level programming** and **algorithms** in **C**.
 | [`0x06-pointers_arrays_strings`](https://github.com/risecodesleep/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings) | The aim of this project is to learn more about Pointers, arrays and strings in **C language**. |
 | [`0x07-pointers_arrays_strings`](https://github.com/risecodesleep/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings) | The aim of this project is to learn more about Pointers, arrays and strings in **C language**. |
 | [`0x08-recursion`](https://github.com/risecodesleep/alx-low_level_programming/tree/master/0x08-recursion) | The aim of this project is to learn about recursion in **C language**. |
+| [`0x0A-argc_argv`](https://github.com/risecodesleep/alx-low_level_programming/tree/master/0x0A-argc_argv) | The aim of this project is to learn about argc and argv in **C language**. |
