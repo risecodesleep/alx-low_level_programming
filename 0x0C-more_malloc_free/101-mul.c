@@ -1,3 +1,8 @@
+/*
+ * File: 101-mul.c
+ * Auth: Ayub Mbugua
+ */
+
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
