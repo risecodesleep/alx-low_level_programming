@@ -1,5 +1,5 @@
 /*
- * Auth: Ayub Kimani
+ * Auth: Ayub Mbugua
  * File: 0-binary_to_uint.c
  */
 
