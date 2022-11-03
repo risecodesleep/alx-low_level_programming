@@ -1,3 +1,6 @@
+#ifndef MAIN
+#define MAIN
+
 /*
  * File: main.h
  * Auth: Ayub Mbugua
