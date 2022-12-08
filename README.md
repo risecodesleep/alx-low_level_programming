@@ -32,3 +32,4 @@ This module covers **Low-level programming** and **algorithms** in **C**.
 | [`0x13-more_singly_linked_lists`](https://github.com/risecodesleep/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists) | The aim of this project is to learn more about the Singly linked lists in **C language**. |
 | [`0x14-bit_manipulation`](https://github.com/risecodesleep/alx-low_level_programming/tree/master/0x14-bit_manipulation) | The aim of this project is to learn about bitwise operators and how to manipulate bits in **C language**. |
 | [`0x15-file_io`](https://github.com/risecodesleep/alx-low_level_programming/tree/master/0x15-file_io) | The aim of this project is to learn about File descriptors and File I/O operations in **C language**. |
+| [`0x17-doubly_linked_lists`](https://github.com/risecodesleep/alx-low_level_programming/tree/master/0x17-doubly_linked_lists) | This project focuses on Doubly linked lists in **C language**. |
